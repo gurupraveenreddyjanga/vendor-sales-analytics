@@ -33,9 +33,7 @@ The main goal of this project is to analyze inventory, purchase, and sales data 
 ├── /db                                               # SQLite database generated from cleaned data
 ├── /logs                                             # Log files recording ingestion status and errors
 
-```
 
----
 
 ## 📌 Key Business Problems Solved
 
