@@ -1,5 +1,5 @@
 
-# 🛠️ Vendor Data Analytics 
+# 🛠️ Vendor Data Analytics Project
 
 A complete end-to-end data pipeline and analysis project focused on vendor, inventory, and sales data using Python, Pandas, SQLite, and Jupyter Notebooks.
 
@@ -22,7 +22,7 @@ The main goal of this project is to analyze inventory, purchase, and sales data 
 --This project helps stakeholders understand **which vendors and products are performing best**, identify **inventory discrepancies**, and spot **sales gaps** or **overstocking issues**.
 
 ---
-
+```
 ## 📂 Project Structure
 
 ├── Data_Exploration & final_table_creation.ipynb     # EDA on cleaned data, business problem-solving, visualizations
@@ -33,7 +33,8 @@ The main goal of this project is to analyze inventory, purchase, and sales data 
 ├── /db                                               # SQLite database generated from cleaned data
 ├── /logs                                             # Log files recording ingestion status and errors
 
-
+```
+---
 
 ## 📌 Key Business Problems Solved
 
