@@ -64,32 +64,16 @@ These were selected specifically to analyze **vendor performance** across multip
 
 ---
 
-## 📌 Key Business Problems Solved
+## 📌 Key Business Problems focused on
 
 This project answers several key business questions, including:
 
-1. **Top-Selling Vendors & Brands**  
-   Identify which vendors and product brands generate the highest total sales.
-
-2. **Unsold Capital Analysis**  
-   Determine how much inventory was purchased but not sold, tying up capital and storage space.
-
-3. **Volume Sold Analysis**  
-   Understand product volume trends by converting product sizes and aggregating total liters sold.
-
-4. **Price Margin Insights**  
-   Compare purchase prices and actual selling prices to analyze vendor profitability and pricing strategies.
-
-5. **Sales vs Purchase Contribution**  
-   Quantify vendor-wise contribution in both purchases and sales using percentage metrics.
-
-6. **Cost Structure Understanding**  
-   Measure the impact of excise tax and freight cost on total cost and profitability by vendor.
-
-7. **Visual KPIs for Stakeholders**  
-   Present insights using donut charts and data summaries for stakeholder visibility.
-
----
+1. 🔍 Identify Brands Needing Promotional or Pricing Adjustments
+2. 🏆 Highest Performing Vendors and Brands
+3. 💰 Vendor Contribution to Total Purchase Dollars
+4. 📦 Bulk Purchase Impact on Unit Price
+5. 🐌 Vendors with Low Inventory Turnover
+6. 🧊 Capital Locked in Unsold Inventory
 
 ## 🧾 Why `vendor_sales_summary` Was Created
 
