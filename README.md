@@ -58,7 +58,7 @@ The analysis also supports insights into **inventory-related issues**, such as:
 The key common columns used to join these datasets were:
 - `Brand`  
 - `VendorNumber`  
-- `PONumber`  
+- `VendorName`  
 
 These were selected specifically to analyze **vendor performance** across multiple business dimensions.
 
