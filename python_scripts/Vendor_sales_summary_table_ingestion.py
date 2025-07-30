@@ -122,4 +122,4 @@ if __name__ == "__main__":
     ingest_db(clean_df,'Vendor_sales_summary',conn)
     logging.info("completed")
     
-                   
+                    
